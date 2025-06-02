@@ -4,7 +4,7 @@ import io.quarkus.logging.Log;
 import io.quarkus.qute.Template;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
-import sv.gob.fgr.restclient.CountryServiceRestClient;
+import sv.gob.fgr.restClient.CountryServiceRestClient;
 import org.eclipse.microprofile.rest.client.inject.RestClient;
 
 @ApplicationScoped

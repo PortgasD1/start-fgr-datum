@@ -1,4 +1,4 @@
-package sv.gob.fgr.restclient;
+package sv.gob.fgr.restClient;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.ws.rs.Consumes;
